@@ -4,14 +4,6 @@
 
 
 
-##Always Learning 
-## Respect always
-## Open listener and active thinker
-
-
-
-
-
 
 
 
@@ -19,6 +11,9 @@
 - 🌱 I’m currently learning JS 😄
 -
 - 💬 Ask me about ... Whatever 
-- 📫 How to reach me: [x](y)sjsdevelopments.com
+- 📫 How to reach me: [www.](y)sjsdevelopments.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Core Values: 
+* Respect always
+* Open listener and active thinker
+* Always Learning, A forever white belt 
