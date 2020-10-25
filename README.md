@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning JS 😄
 -
 - 💬 Ask me about ... Whatever 
-- 📫 How to reach me: [www.sjsdevelopments.com](y)
+- 📫 How to reach me: [My website](www.sjsdevelopments.com)
 - 😄 Pronouns: ...
 - ⚡ Core Values: 
 * Respect always
