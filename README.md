@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**Sorrelljs/Sorrelljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+
+##Always Learning 
+## Respect always
+## Open listener and active thinker
+
+
+
+
+
+
+
+
+- 🔭 I’m currently working on sharpening my Javascript alongside React and Typescript 💬 
+- 🌱 I’m currently learning JS 😄
+-
+- 💬 Ask me about ... Whatever 
+- 📫 How to reach me: [x](y)sjsdevelopments.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
