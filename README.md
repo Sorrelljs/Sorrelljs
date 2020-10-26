@@ -12,8 +12,7 @@
 -
 - 💬 Ask me about ... Whatever 
 - 📫 How to reach me: [My website](https://www.sjsdevelopments.com)
-- 😄 Pronouns: ...
 - ⚡ Core Values: 
-* Respect always
-* Open listener and active thinker
-* Always Learning, A forever white belt 
+** Respect always
+** Open listener and active thinker
+** Always Learning, A forever white belt 
