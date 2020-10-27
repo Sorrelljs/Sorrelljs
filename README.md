@@ -2,9 +2,6 @@
 
 
 
-
-
-
 - 🔭 I’m currently working on sharpening my Javascript alongside React and Typescript 💬 
 - 🌱 I’m currently learning JS 😄
 -
