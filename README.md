@@ -15,4 +15,3 @@
 - ⚡ Core Values: 
 ** Respect always
 ** Open listener and active thinker
-** Always Learning, A forever white belt 
